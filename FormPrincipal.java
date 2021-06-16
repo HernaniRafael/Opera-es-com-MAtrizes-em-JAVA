@@ -1,9 +1,8 @@
-/**Projecto de FP3 - OPERAÇÕES COM MATRIZES
+/**OPERAÇÕES COM MATRIZES
 
-Elias Faria - 21815
-Hernani Rafael - 21706
-Jairo Loureiro - 20892
-			**/
+Hernani Rafael - 21706 
+
+------------------------**/
 
 import javax.swing.*;
 import java.awt.*;
