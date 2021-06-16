@@ -1,9 +1,3 @@
-/**Projecto de FP3 - OPERAÇÕES COM MATRIZES
-
-Elias Faria - 21815
-Hernani Rafael - 21706
-Jairo Loureiro - 20892
-			**/
 
 import javax.swing.JOptionPane;
 import java.util.*;
